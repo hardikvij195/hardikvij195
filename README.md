@@ -1,4 +1,4 @@
-## Senior Developer | Flutter | Firebase | Node Js | Full-Stack | 5+ Yrs of Experience
+## Senior Developer | Flutter | Firebase | Node Js | Full-Stack | Technical Consultant | Business Developer | 5+ Yrs of Experience
 
 🏆 Flutter | Full Stack | Business Developer 🏆
 

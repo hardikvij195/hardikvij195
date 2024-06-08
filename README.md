@@ -31,7 +31,7 @@ Over the past years, I've gained expertise in developing, launching & growing ap
 ✅ Customized White Label Management Solution
 ✅ Yearly Subscription
 
-## Tech-Stacks
+## ★ Tech-Stacks
 
 <div class="row">
 <img src="public/icons/flutter/flutter.svg" height="40">

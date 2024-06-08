@@ -88,6 +88,10 @@ I use the following tools and methods during the development process:
 ## Find Me
 
 <img src='public/icons/whatsapp/whatsapp-vertical.svg' alt="Whatsapp Vertical" width="96">
+<img src='public/icons/linkedin/linkedin.svg' alt="LinkedIn" width="96">
+<img src='public/icons/instagram/instagram.svg' alt="Instagram" width="96">
+<img src='public/icons/facebook/facebook.svg' alt="Facebook" width="96">
+<img src='public/icons/gmail/gmail.svg' alt="Gmail" width="96">
 
 ## Hire Me As A Freelancer
 

@@ -31,6 +31,8 @@ Over the past years, I've gained expertise in developing, launching & growing ap
 <img src="public/icons/downloadfromappstore/5a902db97f96951c82922874.png" height="40">
 </a>
 </div>
+</br>
+</br>
 
 🌟Property Dictionary
 ✅ Live on Play Store & App Store
@@ -50,6 +52,8 @@ Over the past years, I've gained expertise in developing, launching & growing ap
 <img src="public/icons/downloadfromappstore/5a902db97f96951c82922874.png" height="40">
 </a>
 </div>
+</br>
+</br>
 
 🌟Sales Management CRM
 ✅ Used By 50+ Clients Across The Globe

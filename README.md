@@ -100,23 +100,28 @@ I use the following tools and methods during the development process:
 ## Find Me
 
 <div class="row">
-<a href="">
+<a href="https://wa.me/+918588099741?text=Hi">
 <img src='public/icons/whatsapp/whatsapp.svg' alt="Whatsapp Vertical" height="45" width="45">
 </a>
-<a href="">
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hardikvij/?original_referer=https%3A%2F%2Fwww.hardikvij.com%2F">
 <img src='public/icons/linkedin/linkedin.svg' alt="LinkedIn" height="45" width="45">
 </a>
-<a href="">
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/hardik.vij/">
 <img src='public/icons/instagram/instagram.svg' alt="Instagram" height="45" width="45">
 </a>
-<a href="">
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/hardikkvij19599/">
 <img src='public/icons/facebook/facebook.svg' alt="Facebook" height="45" width="45">
 </a>
-<a href="">
+&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hardikvij195@gmail.com">
 <img src='public/icons/gmail/gmail.svg' alt="Gmail" height="45" width="45">
 </a>
-<a href="">
-<img src='public/icons/youtube/youtube.svg' alt="Gmail" height="45" width="45">
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UC1tXYDNGfZMRPt1ZgjNJ99g">
+<img src='public/icons/youtube/youtube.svg' alt="Youtube" height="45" width="45">
 </a>
 </div>
 
@@ -124,7 +129,7 @@ I use the following tools and methods during the development process:
 
 <div class="row">
 <a href="https://www.upwork.com/freelancers/~01f267a3d02b20a278?mp_source=share" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/hardikvij-1254e.appspot.com/o/AppIcon_Circle_UpGreen.jpg?alt=media&token=ad66cbe0-be00-46d9-b277-83050468a0d0" alt="UpWork" style="height: 41px !important;width: 41px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.freelancer.com/u/hardikvij195" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/hardikvij-1254e.appspot.com/o/freelancer-1.svg?alt=media&token=480c0001-eac9-4b7f-a94b-602c81f7d4c7" alt="Freelancer" style="height: 41px !important;width: 41px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </div>
 
@@ -132,6 +137,7 @@ I use the following tools and methods during the development process:
 
 <div class="row">
 <a href="https://www.buymeacoffee.com/hardikvij195" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+&nbsp;&nbsp;
 <a href="https://www.paypal.me/HardikVij">
     <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" alt="paypal">
 </a>

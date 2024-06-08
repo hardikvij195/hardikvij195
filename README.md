@@ -98,12 +98,14 @@ I use the following tools and methods during the development process:
 
 ## Hire Me As A Freelancer
 
+<div class="row">
 <a href="https://www.upwork.com/freelancers/~01f267a3d02b20a278?mp_source=share" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/hardikvij-1254e.appspot.com/o/AppIcon_Circle_UpGreen.jpg?alt=media&token=ad66cbe0-be00-46d9-b277-83050468a0d0" alt="UpWork" style="height: 41px !important;width: 41px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
 <a href="https://www.freelancer.com/u/hardikvij195" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/hardikvij-1254e.appspot.com/o/freelancer-1.svg?alt=media&token=480c0001-eac9-4b7f-a94b-602c81f7d4c7" alt="Freelancer" style="height: 41px !important;width: 41px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</div>
 
 ## Support Me
 
+<div class="row">
 <a href="https://www.buymeacoffee.com/hardikvij195" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 <p>
@@ -111,3 +113,4 @@ I use the following tools and methods during the development process:
       <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" alt="paypal">
   </a>
 </p>
+</div>

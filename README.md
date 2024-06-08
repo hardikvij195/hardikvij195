@@ -100,22 +100,22 @@ I use the following tools and methods during the development process:
 ## Find Me
 
 <div class="row">
-<a style="display:block;padding:30px">
-<img src='public/icons/whatsapp/whatsapp.svg' alt="Whatsapp Vertical" height="45" width="45" style="padding-right: 30px">
+<a href="">
+<img src='public/icons/whatsapp/whatsapp.svg' alt="Whatsapp Vertical" height="45" width="45">
 </a>
-<a>
-<img src='public/icons/linkedin/linkedin.svg' alt="LinkedIn" height="45" width="45"style="padding-right: 30px">
+<a href="">
+<img src='public/icons/linkedin/linkedin.svg' alt="LinkedIn" height="45" width="45">
 </a>
-<a>
-<img src='public/icons/instagram/instagram.svg' alt="Instagram" height="45" width="45"style="padding-right: 30px">
+<a href="">
+<img src='public/icons/instagram/instagram.svg' alt="Instagram" height="45" width="45">
 </a>
-<a>
+<a href="">
 <img src='public/icons/facebook/facebook.svg' alt="Facebook" height="45" width="45">
 </a>
-<a>
+<a href="">
 <img src='public/icons/gmail/gmail.svg' alt="Gmail" height="45" width="45">
 </a>
-<a>
+<a href="">
 <img src='public/icons/youtube/youtube.svg' alt="Gmail" height="45" width="45">
 </a>
 </div>
@@ -124,6 +124,7 @@ I use the following tools and methods during the development process:
 
 <div class="row">
 <a href="https://www.upwork.com/freelancers/~01f267a3d02b20a278?mp_source=share" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/hardikvij-1254e.appspot.com/o/AppIcon_Circle_UpGreen.jpg?alt=media&token=ad66cbe0-be00-46d9-b277-83050468a0d0" alt="UpWork" style="height: 41px !important;width: 41px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+&nbsp;
 <a href="https://www.freelancer.com/u/hardikvij195" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/hardikvij-1254e.appspot.com/o/freelancer-1.svg?alt=media&token=480c0001-eac9-4b7f-a94b-602c81f7d4c7" alt="Freelancer" style="height: 41px !important;width: 41px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </div>
 

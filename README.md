@@ -35,14 +35,23 @@ Over the past years, I've gained expertise in developing, launching & growing ap
 
 <div class="row">
 <img src="public/icons/flutter/flutter.svg" height="40">
+&nbsp;&nbsp;
 <img src="public/icons/firebase/firebase.svg" height="40">
+&nbsp;&nbsp;
 <img src="public/icons/apple/apple.svg" height="40">
+&nbsp;&nbsp;
 <img src="public/icons/google/google.svg" height="40">
+&nbsp;&nbsp;
 <img src="public/icons/github/github.svg" height="40">
+&nbsp;&nbsp;
 <img src="public/icons/figma/figma.svg" height="40">
+&nbsp;&nbsp;
 <img src="public/icons/supabase/supabase.svg" height="40">
+&nbsp;&nbsp;
 <img src="public/icons/razorpay/razorpay.jpeg" height="40">
+&nbsp;&nbsp;
 <img src="public/icons/aws/aws.svg" height="40">
+&nbsp;&nbsp;
 <img src="public/icons/stripe/stripe.jpeg" height="40">
 </div>
 

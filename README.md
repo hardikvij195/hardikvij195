@@ -86,10 +86,6 @@ I use the following tools and methods during the development process:
 🌟 Notion/Azure - Task Management
 
 ## Find Me
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
-/>
 <a href=""><i class="ci-whatsapp-vertical"></i> </a>
 
 ## Hire Me As A Freelancer

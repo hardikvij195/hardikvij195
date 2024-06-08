@@ -35,6 +35,7 @@ Over the past years, I've gained expertise in developing, launching & growing ap
 </br>
 
 🌟Property Dictionary
+
 ✅ Live on Play Store & App Store
 ✅ 10,000+ Download
 ✅ 1,000+ Monthly Leads For Real Estate Developer
@@ -56,6 +57,7 @@ Over the past years, I've gained expertise in developing, launching & growing ap
 </br>
 
 🌟Sales Management CRM
+
 ✅ Used By 50+ Clients Across The Globe
 ✅ Customized White Label Management Solution
 ✅ Yearly Subscription

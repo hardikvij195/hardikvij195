@@ -118,7 +118,7 @@ I use the following tools and methods during the development process:
     <img src="public/icons/hvtechnologies/logo2.png" alt="Hv Technologies" height="60">
 </a>
 
-## Wanna Learn Coding From Me? Visit Smart Coding Classes
+## Wanna Learn Coding / Development? Visit Smart Coding Classes
 
 <a href="https://www.smartcodingclasses.com/" target="_blank">
     <img src="public/icons/smartcodingclasses/Logo.png" alt="Smart Coding Classes" height="60">

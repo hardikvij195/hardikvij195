@@ -101,7 +101,7 @@ Over the past years, I've gained expertise in developing, launching & growing ap
 &nbsp;&nbsp;
 <img src="public/icons/google_pay/google-pay.svg" height="40">
 &nbsp;&nbsp;
-<img src="public/icons/amazon_pay/" height="40">
+<img src="public/icons/amazon_pay/amazon-pay.svg" height="40">
 &nbsp;&nbsp;
 <img src="public/icons/google_cloud/google-cloud.svg" height="40">
 &nbsp;&nbsp;

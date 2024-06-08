@@ -10,7 +10,7 @@ Seeking an experienced professional to bring your mobile app concepts to life? Y
 
 Over the past years, I've gained expertise in developing, launching & growing applications with App Store Optimizations & App Install Campaigns. My specialization lies in creating innovative solutions that consistently exceed expectations & I’m a Growth Hacker for my clients. I excel in mobile app development using Flutter & Digital Marketing Campaigns.
 
-💰🚀 Most Famous Apps:
+## 💰🚀Most Famous Apps:
 
 🌟MingleWise - Dating | Networking | Events
 
@@ -31,7 +31,7 @@ Over the past years, I've gained expertise in developing, launching & growing ap
 ✅ Customized White Label Management Solution
 ✅ Yearly Subscription
 
-★ Skills:
+## ★ Skills:
 ✅5+ years of experience in Flutter
 ✅Proficiency in Dart programming language & the foundation of Flutter
 ✅Developed high-quality cross-platform mobile apps for Android and iOS using Flutter.
@@ -40,7 +40,7 @@ Over the past years, I've gained expertise in developing, launching & growing ap
 ✅Proven track record of delivering high-quality, performance-driven mobile applications for diverse industries, from e-commerce to healthcare.
 ✅ Extensive knowledge of Flutter's UI toolkit, allowing me to create stunning and responsive user interfaces.
 
-★ Types of Applications I Have Already Developed:
+## ★ Types of Applications:
 
 🌟 Social Apps
 ✅ Dating
@@ -60,14 +60,14 @@ Over the past years, I've gained expertise in developing, launching & growing ap
 ✅ Appointment Booking
 ✅ Selling & Lead Generation
 
-★ Why Choose Me For Your Project ?
+## ★ Why Choose Me For Your Project ?
 ✔ Proof of work with live apps
 ✔ Client satisfaction is my first priority
 ✔ Professional and aesthetically pleasing UI and app design
 ✔ Experience in working with a team of developers
 ✔ Commitment to delivering clean, maintainable, and well-documented code.
 
-★ Expertise in :
+## ★ Expertise in :
 ✔️ Flutter Mobile and Web App Development
 ✔️ Next Js Website Development
 ✔️ Business Analysis

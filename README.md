@@ -85,6 +85,12 @@ I use the following tools and methods during the development process:
 🌟 Agile/Scrum - Development model
 🌟 Notion/Azure - Task Management
 
+## Wanna Learn Coding From Me? Visit Smart Coding Classes
+
+<a href="https://www.smartcodingclasses.com/">
+<img src="public/icons/smartcodingclasses/Logo.png" alt="Smart Coding Classes" height="45" width="45">
+</a>
+
 ## Find Me
 
 <div class="row">

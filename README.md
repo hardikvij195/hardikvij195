@@ -88,11 +88,12 @@ I use the following tools and methods during the development process:
 ## Find Me
 
 <div class="row">
-<img src='public/icons/whatsapp/whatsapp-vertical.svg' alt="Whatsapp Vertical" width="96">
-<img src='public/icons/linkedin/linkedin.svg' alt="LinkedIn" width="96">
-<img src='public/icons/instagram/instagram.svg' alt="Instagram" width="96">
-<img src='public/icons/facebook/facebook.svg' alt="Facebook" width="96">
-<img src='public/icons/gmail/gmail.svg' alt="Gmail" width="96">
+<img src='public/icons/whatsapp/whatsapp-vertical.svg' alt="Whatsapp Vertical" height="45" width="45">
+<img src='public/icons/linkedin/linkedin.svg' alt="LinkedIn" height="45" width="45">
+<img src='public/icons/instagram/instagram.svg' alt="Instagram" height="45" width="45">
+<img src='public/icons/facebook/facebook.svg' alt="Facebook" height="45" width="45">
+<img src='public/icons/gmail/gmail.svg' alt="Gmail" height="45" width="45">
+<img src='public/icons/youtube/youtube.svg' alt="Gmail" height="45" width="45">
 </div>
 
 ## Hire Me As A Freelancer

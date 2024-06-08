@@ -88,7 +88,7 @@ I use the following tools and methods during the development process:
 ## Find Me
 
 <div class="row">
-<img src='public/icons/whatsapp/whatsapp-vertical.svg' alt="Whatsapp Vertical" height="45" width="45">
+<img src='public/icons/whatsapp/whatsapp.svg' alt="Whatsapp Vertical" height="45" width="45" style="padding-right: 8px">
 <img src='public/icons/linkedin/linkedin.svg' alt="LinkedIn" height="45" width="45">
 <img src='public/icons/instagram/instagram.svg' alt="Instagram" height="45" width="45">
 <img src='public/icons/facebook/facebook.svg' alt="Facebook" height="45" width="45">

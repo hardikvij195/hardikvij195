@@ -100,7 +100,7 @@ I use the following tools and methods during the development process:
 ## Find Me
 
 <div class="row">
-<a>
+<a style="display:block;padding:30px">
 <img src='public/icons/whatsapp/whatsapp.svg' alt="Whatsapp Vertical" height="45" width="45" style="padding-right: 30px">
 </a>
 <a>

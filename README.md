@@ -84,3 +84,20 @@ I use the following tools and methods during the development process:
 🌟 Git/Bitbucket-Version Control
 🌟 Agile/Scrum - Development model
 🌟 Notion/Azure - Task Management
+
+## Find Me On UpWork
+<a href="https://www.upwork.com/freelancers/~01f267a3d02b20a278?mp_source=share" target="_blank"><img src="https://icon-icons.com/id/icon/upwork-logo/170310" alt="UpWork" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+
+## Support Me
+<a href="https://www.buymeacoffee.com/hardikvij195" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+<p>
+  <a href="https://www.paypal.me/HardikVij">
+      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
+  </a>
+</p>
+
+
+
+

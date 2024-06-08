@@ -86,7 +86,7 @@ I use the following tools and methods during the development process:
 🌟 Notion/Azure - Task Management
 
 ## Find Me On UpWork
-<a href="https://www.upwork.com/freelancers/~01f267a3d02b20a278?mp_source=share" target="_blank"><img src="https://icon-icons.com/id/icon/upwork-logo/170310" alt="UpWork" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.upwork.com/freelancers/~01f267a3d02b20a278?mp_source=share" target="_blank"><img src="https://drive.google.com/drive/folders/13mwn68L47XFoFYQiAIJaJHS0rb-CA3YZ" alt="UpWork" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
 ## Support Me

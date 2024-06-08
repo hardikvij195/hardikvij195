@@ -53,6 +53,18 @@ Over the past years, I've gained expertise in developing, launching & growing ap
 <img src="public/icons/aws/aws.svg" height="40">
 &nbsp;&nbsp;
 <img src="public/icons/stripe/stripe.jpeg" height="40">
+&nbsp;&nbsp;
+<img src="public/icons/nodejs/nodejs.svg" height="40">
+&nbsp;&nbsp;
+<img src="public/icons/nextjs/nextjs.svg" height="40">
+&nbsp;&nbsp;
+<img src="public/icons/mysql/mysql.svg" height="40">
+&nbsp;&nbsp;
+<img src="public/icons/postgresql/postgresql.svg" height="40">
+&nbsp;&nbsp;
+<img src="public/icons/paytm/paytm.jpeg" height="40">
+&nbsp;&nbsp;
+<img src="public/icons/vscode/vscode.svg" height="40">
 </div>
 
 ## ★ Skills:

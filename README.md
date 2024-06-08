@@ -17,14 +17,39 @@ Over the past years, I've gained expertise in developing, launching & growing ap
 ✅ Live on Play Store & App Store
 ✅ 200,000+ Download
 ✅ 20,000+ Monthly Active Users
-✅ Website : https://minglewise.com/
-✅ Android App : https://play.google.com/store/apps/details?id=com.appsynergies.minglewise&hl=en_IN
-✅ iOS App : https://apps.apple.com/in/app/minglewise-dating-pro-events/id1574084760
+
+<div class="row">
+<a href="https://minglewise.com/">
+    <img src="public/icons/minglewise/android.png" height="40">
+</a>
+&nbsp;&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.appsynergies.minglewise&hl=en_IN">
+<img src="public/icons/getitonplaystore/5a902dbf7f96951c82922875.png" height="40">
+</a>
+&nbsp;&nbsp;
+<a href="https://apps.apple.com/in/app/minglewise-dating-pro-events/id1574084760">
+<img src="public/icons/downloadfromappstore/5a902db97f96951c82922874.png" height="40">
+</a>
+</div>
 
 🌟Property Dictionary
 ✅ Live on Play Store & App Store
 ✅ 10,000+ Download
 ✅ 1,000+ Monthly Leads For Real Estate Developer
+
+<div class="row">
+<a href="https://https://redux-plp.web.app/">
+    <img src="public/icons/pd/icon.png" height="40">
+</a>
+&nbsp;&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.sararealtors.propertydictionary">
+<img src="public/icons/getitonplaystore/5a902dbf7f96951c82922875.png" height="40">
+</a>
+&nbsp;&nbsp;
+<a href="https://apps.apple.com/us/app/property-dictionary/id6502470819">
+<img src="public/icons/downloadfromappstore/5a902db97f96951c82922874.png" height="40">
+</a>
+</div>
 
 🌟Sales Management CRM
 ✅ Used By 50+ Clients Across The Globe
@@ -65,6 +90,18 @@ Over the past years, I've gained expertise in developing, launching & growing ap
 <img src="public/icons/paytm/paytm.jpeg" height="40">
 &nbsp;&nbsp;
 <img src="public/icons/vscode/vscode.svg" height="40">
+&nbsp;&nbsp;
+<img src="public/icons/apple_pay/apple-pay.svg" height="40">
+&nbsp;&nbsp;
+<img src="public/icons/google_pay/google-pay.svg" height="40">
+&nbsp;&nbsp;
+<img src="public/icons/amazon_pay/" height="40">
+&nbsp;&nbsp;
+<img src="public/icons/google_cloud/google-cloud.svg" height="40">
+&nbsp;&nbsp;
+<img src="public/icons/playstore/playstore.svg" height="40">
+&nbsp;&nbsp;
+<img src="public/icons/appstore/app-store.svg" height="40">
 </div>
 
 ## ★ Skills:

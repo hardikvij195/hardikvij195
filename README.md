@@ -87,40 +87,40 @@ I use the following tools and methods during the development process:
 
 ## Founded Hv Technologies At 18 - Software Development Consultancy
 
-<a href="https://www.hvtechnologies.app/">
+<a href="https://www.hvtechnologies.app/" target="_blank">
     <img src="public/icons/hvtechnologies/logo2.png" alt="Hv Technologies" height="60">
 </a>
 
 ## Wanna Learn Coding From Me? Visit Smart Coding Classes
 
-<a href="https://www.smartcodingclasses.com/">
+<a href="https://www.smartcodingclasses.com/" target="_blank">
     <img src="public/icons/smartcodingclasses/Logo.png" alt="Smart Coding Classes" height="60">
 </a>
 
 ## Find Me
 
 <div class="row">
-<a href="https://wa.me/+918588099741?text=Hi">
+<a href="https://wa.me/+918588099741?text=Hi" target="_blank">
 <img src='public/icons/whatsapp/whatsapp.svg' alt="Whatsapp Vertical" height="45" width="45">
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hardikvij/?original_referer=https%3A%2F%2Fwww.hardikvij.com%2F">
+<a href="https://www.linkedin.com/in/hardikvij/?original_referer=https%3A%2F%2Fwww.hardikvij.com%2F" target="_blank">
 <img src='public/icons/linkedin/linkedin.svg' alt="LinkedIn" height="45" width="45">
 </a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/hardik.vij/">
+<a href="https://www.instagram.com/hardik.vij/" target="_blank">
 <img src='public/icons/instagram/instagram.svg' alt="Instagram" height="45" width="45">
 </a>
 &nbsp;&nbsp;
-<a href="https://www.facebook.com/hardikkvij19599/">
+<a href="https://www.facebook.com/hardikkvij19599/" target="_blank">
 <img src='public/icons/facebook/facebook.svg' alt="Facebook" height="45" width="45">
 </a>
 &nbsp;&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hardikvij195@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hardikvij195@gmail.com"  target="_blank">
 <img src='public/icons/gmail/gmail.svg' alt="Gmail" height="45" width="45">
 </a>
 &nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UC1tXYDNGfZMRPt1ZgjNJ99g">
+<a href="https://www.youtube.com/channel/UC1tXYDNGfZMRPt1ZgjNJ99g" target="_blank">
 <img src='public/icons/youtube/youtube.svg' alt="Youtube" height="45" width="45">
 </a>
 </div>
@@ -138,7 +138,7 @@ I use the following tools and methods during the development process:
 <div class="row">
 <a href="https://www.buymeacoffee.com/hardikvij195" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 &nbsp;&nbsp;
-<a href="https://www.paypal.me/HardikVij">
+<a href="https://www.paypal.me/HardikVij"  target="_blank">
     <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" alt="paypal">
 </a>
 </div>

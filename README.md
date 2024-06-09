@@ -1,6 +1,6 @@
-## Senior Developer | Flutter | Firebase | Node Js | Full-Stack | Technical Consultant | Business Developer | 5+ Yrs of Experience
+## Senior Developer | Flutter | Firebase | Node Js | Full-Stack | Development Manager | Technical Consultant | Business Developer | 5+ Yrs of Experience
 
-🏆 Full Stack Developer | Business Developer | Technical Consultant 🏆
+🏆 Full Stack Developer | Development Manager | Business Developer | Technical Consultant 🏆
 
 🌟 Responsive communication✔️
 🌟 Intuitive and unique custom solutions✔️
@@ -112,19 +112,23 @@ Over the past years, I've gained expertise in developing, launching & growing ap
 
 ## ★ Skills:
 
-✅5+ years of experience in Flutter
+✅5+ years of experience in Software Development
 ✅Proficiency in Dart programming language & the foundation of Flutter
 ✅Developed high-quality cross-platform mobile apps for Android and iOS using Flutter.
 ✅Developed robust unit tests and set up CI/CD pipelines for automation.
 ✅Strong communication and problem-solving skills, effective collaboration and issue resolution.
-✅Proven track record of delivering high-quality, performance-driven mobile applications for diverse industries, from e-commerce to healthcare.
-✅ Extensive knowledge of Flutter's UI toolkit, allowing me to create stunning and responsive user interfaces.
+✅Proven track record of delivering high-quality, performance-driven mobile applications for diverse industries.
+✅Managed a team of 20+ Developers, Designers & Business Analyst
+✅Experience in Giving Presentations & Demos on client calls.
+✅Demonstrated skills in analysis & shared ideas on how to grow apps.
+✅Hands on Experience with Meta & Google Ads for Apps & Websites.
+✅Direct involvement in decision making with the Managers, CEO & Founders of different companies & apps.
 
 ## ★ Types of Applications:
 
 🌟 Social Apps
 ✅ Dating
-✅ Travelling
+✅ Traveling
 ✅ Networking
 ✅ Matching
 ✅ Posting & Feed
@@ -142,7 +146,7 @@ Over the past years, I've gained expertise in developing, launching & growing ap
 
 ## ★ Why Choose Me For Your Project ?
 
-✔ Proof of work with live apps
+✔ Proof of work with live projects
 ✔ Client satisfaction is my first priority
 ✔ Professional and aesthetically pleasing UI and app design
 ✔ Experience in working with a team of developers

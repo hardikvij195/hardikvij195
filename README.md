@@ -113,6 +113,7 @@ Over the past years, I've gained expertise in developing, launching & growing ap
 ## ★ Skills:
 
 ✅5+ years of experience in Software Development
+✅Proven track record of tackling app store & play store rejections
 ✅Proficiency in Dart programming language & the foundation of Flutter
 ✅Developed high-quality cross-platform mobile apps for Android and iOS using Flutter.
 ✅Developed robust unit tests and set up CI/CD pipelines for automation.
